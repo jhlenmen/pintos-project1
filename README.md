@@ -1,6 +1,6 @@
-# pintos-project1（西电操作系统课设）
+# pintos-project1
 
-xdos Pintos-project1 27pass（西电操作系统课设）
+xdos Pintos-project1 27pass
 
 Used for my course and study
 
